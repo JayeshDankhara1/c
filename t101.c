@@ -1,3 +1,8 @@
+/*a
+  b  C
+  d  E  f
+  g  H  i  J
+  k  L  m  N  o*/
 #include <stdio.h>
 
 int main()
